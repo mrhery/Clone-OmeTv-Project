@@ -1,0 +1,19 @@
+{
+	"databases": [
+		{
+			"host": "127.0.0.1",
+			"database": "rancall",
+			"username": "root",
+			"password": ""
+		}
+	],
+	"constants": [
+		{
+			"PORTAL": 	"http://localhost/Clone-OmeTv-Project/"
+		}
+	],
+	"miscs": [
+		"asset_loader.php"
+	],
+	"headers": []
+}
