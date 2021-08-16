@@ -1,5 +1,5 @@
 # Clone-OmeTv-Project
-Clone OmeTv Project named FrienBy.Click. This project id for study purose only. This project focuses on how to make an online video call, matching call with other person, basic js polling chat and some bootstrap design. There is no intention to sabotage OmeTv or any negative action to OmeTv. I have recorded full tutorials and how to write it on my YouTube channel (in malay language). Visit https://frienby.click for live project (you can try and register for free!). 
+Clone OmeTv Project named FrienBy.Click. This project id for study purose only. This project focuses on how to make an online video call, matching call with other person, basic js polling chat and some bootstrap design. There is no intention to sabotage OmeTv or any negative action to OmeTv. I have recorded full tutorials and how to write it on my YouTube channel (in malay language). Visit https://friendby.click for live project (you can try and register for free!). 
 
 # Project Background
 For frontend, I use bootstrap because I think its the simplest choice to start a project (includes many resoureces out there). For WebRTC I use PeerJS api ad Peer Server to simplified the call handlng. For Backend I use PHP, my own PHP Framework (a small and simple one).
